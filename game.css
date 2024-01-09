@@ -1,0 +1,36 @@
+
+body {
+    padding: 200px;
+    text-align: center;
+    background-color: azure;
+    color:lightcoral;
+    background-image: url('https://static.toiimg.com/thumb/msid-100470855,width-1280,height-720,resizemode-4/100470855.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+button{
+    background-color:darksalmon;
+    height: 35px;
+    width: 60px;
+    border-radius: 20%;
+    border: 2px solid palevioletred;
+    color:crimson;
+}
+input{
+    background-color:darksalmon;
+    height: 35px;
+    width: 90px;
+    border-radius: 20%;
+    border: 2px solid palevioletred;
+    color:crimson;
+}
+h3{
+    color: hotpink;
+}
+.content-box{
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 80px;
+    border-radius: 20px;
+    text-align: center;
+}
